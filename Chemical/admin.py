@@ -1,0 +1,28 @@
+from django.contrib import admin
+from .models import *
+# Register your models here.
+admin.site.register(HPD11)
+admin.site.register(IPD11)
+admin.site.register(LPD11)
+admin.site.register(HPMS11)
+admin.site.register(IPMS11)
+admin.site.register(LPMS11)
+admin.site.register(HPD12)
+admin.site.register(IPD12)
+admin.site.register(LPD12)
+admin.site.register(HPMS12)
+admin.site.register(IPMS12)
+admin.site.register(LPMS12)
+
+admin.site.register(HPD21)
+admin.site.register(IPD21)
+admin.site.register(LPD21)
+admin.site.register(HPMS21)
+admin.site.register(IPMS21)
+admin.site.register(LPMS21)
+admin.site.register(HPD22)
+admin.site.register(IPD22)
+admin.site.register(LPD22)
+admin.site.register(HPMS22)
+admin.site.register(IPMS22)
+admin.site.register(LPMS22)
